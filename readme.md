@@ -1,22 +1,42 @@
-# Midterm Group Project: Enhancing GIT Collaboration & Crafting a Comprehensive Website Strategy
+# Midterm Group Project - Starter
 
 ## Overview
 
-Welcome to the immersive Midterm Group Project! Over the span of three weeks, you and your team will devise a strategic framework for the development and design of a website that is the PROPOSAL to a client of your development firm, this will also form the basis of your final group project.  [See the project description for more information about the project specifics](project.md) and the [schedule of deliverables](schedule.md).  The amount of work in this project is signficant and is designed to encourage you to plan your work effectivly and to require you to work as a team.  You should use ChatGPT extensivly for this project, it is very good at coming up with ideas and can help you with some of the repetitive coding tasks like making a table or converting between markdown and HTML.  
+Use this for all your group documentation and put links to the documents in canvas as requested for each assignment.  See the project [here](https://github.com/kaw393939/webdev_one_group_project) for up-to-date info that I will update as the project progresses and to deploy any changes for everyone.
 
-The project is centered on consolidating your GIT collaboration techniques, familiarizing you with key web development skills, introducing you to the principles of UX design, and imbibing you with fundamental digital marketing strategies. The aim is to provide a practical perspective on creating a successful website for a business.  Your team needs to select one of the business types listed in the project description to focus on.  We are focusing on generic businesses because if Starbucks can sell a 50 cent cup of coffee for $5 then you can too with a good marketing, branding, and sales strategy.  
+## Your Deliverables
 
-## Module content
+### Week 1
+- [Brand Research 1](brand_research_1.md)
+- [Brand Research 2](brand_research_2.md)
+- [Brand Research 3](brand_research_3.md)
+- [SWOT Competitivee Landscape](swot.md)
+- [Group Activity Report 1](report_1.md)
+### Week 2
+- [Group Activity Report 2](report_2.md)
+- [Brand Guide](brand_guide.md)
+- [Markting Strategy Customer Journey](journey.md)
+- [Buyer Persona](persona.md)
+### Week 3
+- [Group Activity Report 3](report_3.md)
+- [Link to your Proposal hosted with GitHub Pages](#replace_this_with_your_website_link)
+
+
+
 
 ### Watch the Instructor Instructional Video - [Here](https://youtu.be/TSxlwFRm148)
 
-### Assignment Instructions and Content
+### Project Instructions and Content
 
 - [Assignment Instructions](project.md)
 = [Weekly Deliverable Schedule](schedule.md)
 - [Week 1 Competitve Landscape Analysis](competitive_landscape.md)
 - [Week 2 Business Analysis and Design](analysis_design.md)
-- [Week 3 Final Proposal](proposal.md)
+- [Week 3 Final Website and Video Proposal](proposal.md)
+
+**Unlike Previous Assignments I will keep this repository as the "master" so that  I can update t for everyone over the next 3 weeks.  You will still use GitHub classroom; however, you will be writing your own tests and maintaining this repository for the entire project that will span the next 3 weeks**
+
+### [Click Here to Accept The GitHub Classroom Assignment](https://classroom.github.com/a/i_kI1M2b) - The first person in your group will need to create the group and they should name it your course number and section i.e. IS218-850-teamA
 
 ## Project Learning Objectives
 

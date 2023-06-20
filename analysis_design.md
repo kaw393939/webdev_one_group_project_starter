@@ -23,7 +23,7 @@ In the third phase of this module, your task is to devise a marketing plan that 
 
 This marketing plan should not exist in isolation but should be a natural extension of your buyer persona and brand guide. It needs to leverage the BANT framework and the six methods of persuasion at each stage of the sales funnel. This will ensure your strategies and tactics for attracting, engaging, and retaining customers are deeply rooted in your understanding of your buyer persona and consistent with your brand guide.
 
-## The Final Proposal
+## The Final Proposal - [Week 3](proposal.md)
 In week 3, the culmination of your diligent work will manifest as a comprehensive business proposal. This proposal will present an integrated view of your buyer persona, brand guide, and marketing plan, supported by a 5-minute video pitch.
 
 This proposal will demonstrate how you've skillfully applied principles of brand archetypes, SWOT analysis, GIT collaboration, strategic thinking, and team collaboration. It will show how you've implemented the BANT principles and the six methods of persuasion through your buyer persona, brand guide, and marketing plan, illustrating your deep understanding of these concepts and their practical application.

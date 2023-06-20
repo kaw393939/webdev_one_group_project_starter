@@ -20,7 +20,7 @@ Your SWOT analysis should include the brand archetype, the sales funnel, the BAN
 
 For now, focus on gaining a thorough understanding of the competitive landscape and creating a strategic plan based on your research insights. Avoid jumping ahead to developing your own business persona or branding guide.
 
-## Looking Ahead: Crafting Your Business Proposal
+## Looking Ahead: Crafting Your Business Proposal - [Weeek 2](analysis_design.md)
 With your competitive analysis and strategic plan, you'll be prepared to move on to the next module where you'll design your own selected business, develop the buyer persona, craft the branding guide, and outline the sales funnel.
 
 Your strategic plan, alongside the insights gained from your competitive analysis, will enable you to develop a compelling business proposal. This proposal will be presented as a website accompanied by a 5-minute video pitch. It should demonstrate your team's potential to deliver an engaging online experience to prospective clients.

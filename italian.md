@@ -1,2 +1,0 @@
-### Note: 
-Don't worry if you have no idea how to do something (within reason), you should just propose what is "right" for the business and we will sort out how to do it later.  Just remember this is a marketing website and not a web application.  We will be using 3rd party services for things like email subscription / mailing list functionality.
